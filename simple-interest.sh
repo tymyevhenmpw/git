@@ -14,3 +14,5 @@ simple_interest=$(echo "scale=2; ($principal * $rate * $time) / 100" | bc)
 # Display the result
 echo "The Simple Interest is: $simple_interest"
 
+# Edited
+
